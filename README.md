@@ -15,3 +15,28 @@ This project is a simple web-based **Marketing Campaign Tracker Dashboard** buil
 - Chart.js (via CDN)
 
 ## 📂 Project Structure:
+
+
+index.html → Main dashboard page
+styles.css → Styling for the page
+script.js → Handles chart and data updates
+
+
+
+## 🚀 How to Run Locally:
+1. Clone this repository or download the ZIP.
+2. Open `index.html` directly in your browser.
+3. Dashboard will appear with basic data visualizations.
+
+## 🌟 Future Scope:
+- Google Analytics API Integration
+- Live Campaign Filters
+
+---
+
+✅ **Deployed Soon:** [GitHub Pages Link]
+
+---
+
+## 🤝 Connect with Me:
+[LinkedIn](https://www.linkedin.com/in/kavitha-rajpurohit-b2aa7725b/)
